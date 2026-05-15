@@ -101,6 +101,7 @@ PySide6
 ```cmd
 cd src
 python main.py
+```
 
 🟢 Analyzer Engine
 Il motore di analisi implementa:
