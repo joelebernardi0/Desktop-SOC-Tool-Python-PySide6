@@ -1,0 +1,3 @@
+cd C:\Users\elett\Desktop\PhishingAnalyzerDesktop>
+
+python main.py
