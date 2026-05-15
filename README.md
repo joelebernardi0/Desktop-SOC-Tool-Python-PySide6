@@ -57,6 +57,7 @@ Il tutto con un’interfaccia **Matrix Green UI**, animazioni, overlay e compone
 
 ## 🟢 Project Structure
 
+
 PhishingAnalyzer-MatrixEdition/
 │
 ├── README.md
@@ -84,6 +85,7 @@ PhishingAnalyzer-MatrixEdition/
 ├── architecture.md
 ├── threat-model.md
 └── changelog.md
+
 
 ---
 
