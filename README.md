@@ -148,11 +148,12 @@ Feature aggiunte
 Fix
 
 🟢 Threat Model (Sintesi)
-Componente	Rischio	Mitigazione
-Input email	Possibile contenuto malevolo	Parsing testuale, nessuna esecuzione
-URL	Phishing / spoofing	Domain scoring + heuristics
-UI	Nessun rischio	Sandbox locale
-File loader	File non fidati	Apertura in sola lettura
+Componente |  Rischio	 |    Mitigazione|
+           |           |               |
+Input_email|Possibile contenuto malevolo |	Parsing testuale, nessuna esecuzione
+URL	       |Phishing / spoofing|	       |Domain scoring + heuristics
+UI	       |Nessun rischio	   |         |Sandbox locale
+File_loader|File non fidati	   |         |Apertura in sola lettura
 
 
 🟢 License
