@@ -1,0 +1,85 @@
+QWidget {
+    background: transparent;
+    color: #00ff88;
+    font-family: "Consolas";
+    font-size: 14px;
+}
+
+/* HEADER */
+#header {
+    background-color: rgba(0, 30, 0, 0.85);
+    border-bottom: 2px solid #00ff55;
+}
+
+#headerTitle {
+    font-size: 26px;
+    font-weight: bold;
+    color: #00ff88;
+    text-shadow: 0 0 10px #00ff55;
+}
+
+/* SIDEBAR */
+#sidebar {
+    background-color: rgba(0, 20, 0, 0.85);
+    border-right: 2px solid #00ff55;
+}
+
+#sidebarButton {
+    background-color: rgba(0, 255, 100, 0.10);
+    border: 1px solid #00ff55;
+    border-radius: 8px;
+    padding: 12px;
+    margin: 8px 0;
+    color: #00ff88;
+}
+
+#sidebarButton:hover {
+    background-color: rgba(0, 255, 100, 0.35);
+}
+
+/* FOOTER */
+#footer {
+    background-color: rgba(0, 30, 0, 0.85);
+    border-top: 2px solid #00ff55;
+}
+
+/* PAGE TITLES */
+#pageTitle {
+    font-size: 22px;
+    font-weight: bold;
+    color: #00ff88;
+    margin-bottom: 10px;
+}
+
+/* BOXES */
+#statusBox, #statsBox {
+    background-color: rgba(0, 40, 0, 0.50);
+    border: 1px solid #00ff55;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 15px;
+}
+
+#statusTitle {
+    font-size: 18px;
+    font-weight: bold;
+    color: #00ff88;
+}
+
+/* THREAT LEVEL */
+#threatLabel {
+    font-size: 30px;
+    font-weight: bold;
+    color: #00ff55;
+    text-shadow: 0 0 15px #00ff55;
+}
+
+/* TERMINALE / ASCII BOX */
+#terminalBox {
+    background-color: black;
+    color: #00ff55;
+    border: 1px solid #00ff55;
+    border-radius: 8px;
+    padding: 10px;
+    font-family: "Consolas";
+}
