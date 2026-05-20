@@ -3,7 +3,7 @@
 ---
 ![image alt](https://github.com/joelebernardi0/Desktop-SOC-Tool-Python-PySide6/blob/ce7bd9928b799879d39bfd0c58270b4efec24380/Screenshot%202026-05-15%20192330.png)
 
-![image alt](https://github.com/joelebernardi0/Desktop-SOC-Tool-Python-PySide6/blob/ce7bd9928b799879d39bfd0c58270b4efec24380/Screenshot%202026-05-15%20192547.png)
+![image alt](https://github.com/joelebernardi0/Desktop-SOC-Tool-Python-PySide6/blob/1e9a945202b8054fcc73aff60a1678a898236546/Screenshot%202026-05-15%20192523.png)
 
 ---
 
